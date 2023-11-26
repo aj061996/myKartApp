@@ -1,0 +1,22 @@
+.addBoard{
+    height: 160px;
+    background-color: #fff;
+    margin:0 22px;
+    position: relative;
+}
+.addBoard div{
+    height: 100%;
+    width:100%;
+    position: absolute;
+    
+}
+.one{
+    background-color: blue;
+
+}
+.two{
+    background-color: yellow;
+}
+.three{
+    background-color: green;
+}

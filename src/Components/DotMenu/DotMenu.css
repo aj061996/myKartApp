@@ -1,0 +1,17 @@
+.dotMenuContainer{
+    background-color: #fff;
+    width:230px;
+    text-align: left;
+    padding-left: 16px;
+    position: absolute;
+    top:60px;
+    left: 1256px;
+    box-shadow: 0 0px 10px 5px rgb(137, 137, 137);
+    border-radius: 8px;
+}
+.dotMenuContainer div{
+    display: flex;
+    margin:14px 0;
+    align-items: center;
+    gap:8px;
+}
