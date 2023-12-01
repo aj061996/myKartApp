@@ -1,18 +1,18 @@
 import logo from './logo.svg';
 import './App.css';
 import { Navbar } from './Components/Navbar/Navbar';
-import { BrowserRouter as Router , Routes , Route  , Link} from 'react-router-dom'
+import { HashRouter, Routes , Route  , Link} from 'react-router-dom'
 import Home from './pages/Home/Home';
 function App() {
   return (
     <div>
       
-      <Router>
+      <HashRouter>
       <Navbar/>
         <Routes>
           <Route path='/' element={<Home/>}/>
         </Routes>
-      </Router>
+      </HashRouter>
       
     </div>
   );

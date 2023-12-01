@@ -1,0 +1,10 @@
+
+.homeDiv{
+    width:98vw;
+    overflow: hidden;
+    margin:0 auto;
+    display: flex;
+    flex-direction: column;
+    gap:22px;
+    margin-top: 10px;
+}
