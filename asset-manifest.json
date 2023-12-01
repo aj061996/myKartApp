@@ -1,25 +1,28 @@
 {
   "files": {
-    "main.css": "/myKartApp/static/css/main.d1908f50.css",
-    "main.js": "/myKartApp/static/js/main.020dd38c.js",
+    "main.css": "/myKartApp/static/css/main.1d3cfeef.css",
+    "main.js": "/myKartApp/static/js/main.658d6db0.js",
     "static/js/787.96dfc315.chunk.js": "/myKartApp/static/js/787.96dfc315.chunk.js",
     "static/media/fashion.png": "/myKartApp/static/media/fashion.fa93f5d119b7555d18ab.png",
     "static/media/toys.png": "/myKartApp/static/media/toys.1b369edcdef7ed883612.png",
     "static/media/tv.png": "/myKartApp/static/media/tv.08528463f7c89616cdc2.png",
+    "static/media/6003853.jpg": "/myKartApp/static/media/6003853.a8da26539911ee61a349.jpg",
     "static/media/electronics.png": "/myKartApp/static/media/electronics.7ffd368a85e6f7b8ff3d.png",
+    "static/media/6274557.jpg": "/myKartApp/static/media/6274557.3bb4e5a15443843c965f.jpg",
     "static/media/bike.png": "/myKartApp/static/media/bike.7ee89aadf2c2b74b2796.png",
     "static/media/grocery.png": "/myKartApp/static/media/grocery.78e54da76ad64c5c50d9.png",
     "static/media/mobile.png": "/myKartApp/static/media/mobile.f861ac95003fb7f04a54.png",
     "static/media/applinances.png": "/myKartApp/static/media/applinances.f1f4d321d815fb43be3e.png",
     "static/media/plane.png": "/myKartApp/static/media/plane.140b170ed3ec155d0618.png",
+    "static/media/bannerOnee.jpg": "/myKartApp/static/media/bannerOnee.fff0c27707a6c9f99f7e.jpg",
     "static/media/logo.svg": "/myKartApp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/myKartApp/index.html",
-    "main.d1908f50.css.map": "/myKartApp/static/css/main.d1908f50.css.map",
-    "main.020dd38c.js.map": "/myKartApp/static/js/main.020dd38c.js.map",
+    "main.1d3cfeef.css.map": "/myKartApp/static/css/main.1d3cfeef.css.map",
+    "main.658d6db0.js.map": "/myKartApp/static/js/main.658d6db0.js.map",
     "787.96dfc315.chunk.js.map": "/myKartApp/static/js/787.96dfc315.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d1908f50.css",
-    "static/js/main.020dd38c.js"
+    "static/css/main.1d3cfeef.css",
+    "static/js/main.658d6db0.js"
   ]
 }
