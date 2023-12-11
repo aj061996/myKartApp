@@ -1,0 +1,105 @@
+.footer{
+    height: 40vh;
+    background-color: rgb(28, 25, 25);
+    padding-top:28px;
+    line-height: 18px;
+}
+
+a {
+
+    text-decoration: none;
+    color:white;
+    font-size: 12px;
+    font-weight: bold;
+}
+.footerLinksContainer{
+    width:90%;
+    margin:0 auto;
+    padding-bottom: 22px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+hr{
+    background-color: rgb(87, 87, 87);
+    height: 1px;
+    border:none;
+}
+.footerLinksContainer div{
+    height: 200px;
+}
+.footerLinkTitle , .addressTitle{
+    margin-bottom: 10px;
+    font-weight: light;
+}
+a:hover{
+    text-decoration: underline;
+}
+ul li{
+    list-style: none;
+    
+}
+.officeAddress  p:not(:first-child) , .Mail p:not(:first-child){
+    color:white;
+    font-size: 12px;
+    font-weight: bold;
+}
+.Mail{
+    border-left: 1px solid rgb(87, 87, 87);
+    padding-left: 22px;
+}
+.footerBottomNavBar{
+    color:white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin:28px 55px;
+    font-size: 13px;
+}
+.footerIcons{
+    color:orange;
+    margin-right: 6px;
+}
+.cardsAndOptions{
+    display: flex;
+    gap:8px;
+}
+.footerBottomNavBar div{
+    display: flex;
+    align-items: center;
+}
+.cardsAndOptions div{
+    height: 18px;
+    width:32px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footerBottomNavBar > :nth-child(-n+5){
+    cursor:pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,4 +1,4 @@
-.container{
+.navbarContainer{
     width:100vw;
     position: relative;
 }
@@ -20,8 +20,12 @@
     color:rgb(55, 55, 255)
     
 }
-.logo p{
+.navP{
     color:rgb(126, 126, 126)
+}
+.iconsP{
+    font-size: 18px;
+    color:black;
 }
 .logo p span {
     color:rgb(255, 204, 110)

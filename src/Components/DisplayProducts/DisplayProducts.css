@@ -1,0 +1,114 @@
+.oneProduct{
+    display: flex;
+    justify-content: space-between;
+    height: 340px;
+    margin-bottom: 26px;
+
+}
+.line{
+    height: 100%;
+    
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+   gap:20px;
+   cursor:pointer;
+   position: relative;
+}
+.lineWidthMobile{
+    width:85%;
+}
+.lineWidthElectronics{
+    width: 100%;
+}
+
+.top{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.top h2{
+    margin:12px;
+}
+.top .rightArrow{
+    padding:12px;
+    font-size: 22px;
+    color:blue;
+
+    cursor:pointer;
+}
+.itemsList{
+    display: flex;
+    gap:12px;
+    width:110%;
+    position: absolute;
+    top:20%;
+    margin:0 10px;
+    left:0;
+    transition:all .4s;
+}
+
+.left{
+    left:0;
+}
+.right{
+    right:0;
+}
+.advertisement , .advertisement img{
+    height: 100%;
+    
+}
+.advertisement{
+    box-sizing: border-box;
+    border:6px solid orange;
+    cursor:pointer;
+}
+.btn{
+    all:unset;
+    cursor:pointer;
+}
+.leftRightNavBtns{
+    background-color: blue;
+    position: absolute;
+    width: 100%;
+    display: flex;
+    top:130px;
+    justify-content: space-between;
+    
+}
+.leftRightNavBtns div{
+    width:50%;
+    display: flex;
+}
+.leftrightArrows{
+    font-size: 70px;
+    color:black;
+    background-color:rgb(219, 219, 219);
+    border:1px solid rgb(168, 168, 168);
+    width:40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top:100px;
+}
+.leftArrowMobile{
+    left:1rem;
+    border-bottom-right-radius:8px;
+    border-top-right-radius:8px;
+    left:0;
+
+    
+}
+.rightArrowMobile{
+    border-bottom-left-radius:8px;
+    border-top-left-radius:8px;
+    right:0;
+}
+.hide{
+    display:none;
+}

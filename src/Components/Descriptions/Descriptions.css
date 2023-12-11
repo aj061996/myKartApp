@@ -1,0 +1,23 @@
+.DescriptionP , .descriptionTitle{
+    color:rgb(118, 118, 118)
+}
+.Description-Container{
+    margin-top: 70px;
+    margin-left: 12px;
+    border-top: 1px solid rgba(118, 118, 118,.4);
+}
+.Description-Container section{
+    margin:28px 0;
+    text-align: left;
+}
+.descriptionTitle{
+    margin-bottom: 10px;
+}
+.DescriptionP{
+    font-size:13px;
+}
+.subTitles{
+    margin:12px 0;
+    font-size: 20px;
+    color:rgb(59, 59, 59);
+}

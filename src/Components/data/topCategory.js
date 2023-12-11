@@ -1,12 +1,12 @@
-import grocery from '../images/grocery.png';
-import mobile from '../images/mobile.png';
-import fashion from '../images/fashion.png';
-import electronics from '../images/electronics.png';
-import appliances from '../images/applinances.png';
-import tv from '../images/tv.png';
-import plane from '../images/plane.png';
-import toys from '../images/toys.png';
-import bike from '../images/bike.png';
+import grocery from '../images/categories/grocery.png';
+import mobile from '../images/categories/mobile.png';
+import fashion from '../images/categories/fashion.png';
+import electronics from '../images/categories/electronics.png';
+import appliances from '../images/categories/applinances.png';
+import tv from '../images/categories/tv.png';
+import plane from '../images/categories/plane.png';
+import toys from '../images/categories/toys.png';
+import bike from '../images/categories/bike.png';
 
 
 export const CATEGORY = [

@@ -1,0 +1,24 @@
+.buttonsContainer{
+    width:98vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: absolute;
+    bottom:100px;
+    z-index: 100;
+}
+.buttonsContainer button{
+    height: 75px;
+    width:33px;
+    font-size: 24px;
+    border:none;
+    outline:none;
+}
+.leftBtn{
+    border-bottom-right-radius: 8px;
+    border-top-right-radius: 8px;
+}
+.rightBtn{
+    border-bottom-left-radius: 8px;
+    border-top-left-radius: 8px;
+}

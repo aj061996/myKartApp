@@ -1,0 +1,88 @@
+img{
+    height:100px;
+}
+.gridContainer{
+    height:87vh;
+    width:32vw;
+    background-color: #fff;
+    margin-bottom: 22px;
+    cursor:pointer;
+}
+.title{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 70px;
+    padding:0 14px;
+}
+.title p{
+    font-weight: bold;
+    font-size: 22px;
+    color:black;
+}
+.title button{
+    all:unset;
+}
+.arrowIcon{
+    padding:12px;
+    font-size: 22px;
+    color:blue;
+    cursor:pointer;
+}
+.gridBox{
+    height: 85%;
+    display: grid;
+    grid-template-columns:repeat(2 , 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    gap:8px;
+    padding:8px;
+}
+.imageContainer{
+    border:1px solid rgba(147, 147, 147,.5);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;  
+    
+}
+
+.imageContainer img{
+    height:200px;
+}
+.titles{
+    text-align: left;
+
+}
+.titles p:nth-child(1){
+    font-size: 22px;
+}
+.titles p:nth-child(2){
+    font-weight: bold;
+    font-size:18px;
+    color:green;
+}
+.gridBoxTwo{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-template-rows: repeat(2,1fr);
+    height:85%;
+    
+}
+.imageContainerTwo{
+}
+
+
+.one{
+    grid-row-start: 1;
+    grid-row-end: 3;
+    border-right: 1px solid rgba(147, 147, 147,.5);
+    border-top: 1px solid rgba(147, 147, 147,.5);
+    border-bottom:1px solid rgba(147, 147, 147,.5);
+}
+.two{
+    border-bottom: 1px solid rgba(147, 147, 147,.5);
+    border-top:1px solid rgba(147, 147, 147,.5);
+}
+.three{
+    border-bottom: 1px solid rgba(147, 147, 147,.5);
+}

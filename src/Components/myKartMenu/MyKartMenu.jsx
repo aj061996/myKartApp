@@ -14,7 +14,7 @@ const MyKartMenu = () => {
     <div className='menuContainer'>
         <div>
             <CgProfile/>
-            <p>My Profile</p>
+            <p className='mykartMenuP'>My Profile</p>
         </div>
         <div>
             <AiOutlineThunderbolt/>

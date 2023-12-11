@@ -1,0 +1,135 @@
+
+.productSlider{
+    display: flex;
+    justify-content: space-between;
+    height: 340px;
+    margin-bottom: 26px;
+}
+.slide{
+    height: 100%;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+   gap:20px;
+   cursor:pointer;
+   position: relative;
+}
+.titleAndIcon{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.train{
+    display: flex;
+    gap:12px;
+    width:110%;
+    position: absolute;
+    top:20%;
+    margin:0 10px;
+    left:0;
+    transition:all .4s;
+}
+.titleAndIcon{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.titleAndIcon h2{
+    margin:12px;
+}
+.titleAndIcon .rightArrow{
+    padding:12px;
+    font-size: 22px;
+    color:blue;
+
+    cursor:pointer;
+}
+.arrowsLeftRight{
+    font-size: 70px;
+    color:black;
+    background-color:rgb(219, 219, 219);
+    border:1px solid rgb(168, 168, 168);
+    width:40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top:100px;
+}
+.arrowLeft{
+    left:1rem;
+    border-bottom-right-radius:8px;
+    border-top-right-radius:8px;
+    left:0;
+
+    
+}
+.arrowRight{
+    border-bottom-left-radius:8px;
+    border-top-left-radius:8px;
+    right:0;
+}
+.hideArrow{
+    display:none;
+}
+.left{
+    left:0;
+}
+.right{
+    right:0;
+}
+.advertisement , .advertisement img{
+    height: 100%;
+    
+}
+.advertisement{
+    box-sizing: border-box;
+    border:6px solid orange;
+    cursor:pointer;
+}
+.btn{
+    all:unset;
+    cursor:pointer;
+}
+
+
+.productContainer{
+    background-color: white;
+    border:1px  rgba(168, 168, 168,.7);
+    border-style:solid;
+    border-radius: 4px;
+    height:240px;
+    width:200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding:7px 0 ;
+    align-items: center;
+    flex-shrink: 0;
+    overflow: hidden;
+    
+}
+.productBox{
+    height: 70%;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    
+}
+.productBox img{
+    height: 100%;
+    height: 70%;
+    transform: scale(1);
+}
+.productBox img:hover{
+    transform: scale(1.05);
+}
+p{
+    color:rgb(63, 63, 63)
+}

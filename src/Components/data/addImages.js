@@ -1,6 +1,6 @@
-import bannerOne from '../images/6003853.jpg';
-import bannerTwo from '../images/6274557.jpg';
-import bannerThree from '../images/bannerOnee.jpg'
+import bannerOne from '../images/advertisements/6003853.jpg';
+import bannerTwo from '../images/advertisements/6274557.jpg';
+import bannerThree from '../images/advertisements/bannerOnee.jpg'
 export const addsData = [
     {
         src:bannerOne,
@@ -15,3 +15,4 @@ export const addsData = [
         alt:'advertisement'
     }
 ]
+/**/
