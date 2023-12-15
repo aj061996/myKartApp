@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/myKartApp/static/css/main.5759c00e.css",
-    "main.js": "/myKartApp/static/js/main.2eb4c9d9.js",
+    "main.css": "/myKartApp/static/css/main.c8ef711c.css",
+    "main.js": "/myKartApp/static/js/main.cdd10cde.js",
     "static/js/787.96dfc315.chunk.js": "/myKartApp/static/js/787.96dfc315.chunk.js",
     "static/media/fashion.png": "/myKartApp/static/media/fashion.fa93f5d119b7555d18ab.png",
     "static/media/toys.png": "/myKartApp/static/media/toys.1b369edcdef7ed883612.png",
@@ -63,12 +63,12 @@
     "static/media/p2.webp": "/myKartApp/static/media/p2.9c43138cefa92498c0e6.webp",
     "static/media/logo.svg": "/myKartApp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/myKartApp/index.html",
-    "main.5759c00e.css.map": "/myKartApp/static/css/main.5759c00e.css.map",
-    "main.2eb4c9d9.js.map": "/myKartApp/static/js/main.2eb4c9d9.js.map",
+    "main.c8ef711c.css.map": "/myKartApp/static/css/main.c8ef711c.css.map",
+    "main.cdd10cde.js.map": "/myKartApp/static/js/main.cdd10cde.js.map",
     "787.96dfc315.chunk.js.map": "/myKartApp/static/js/787.96dfc315.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5759c00e.css",
-    "static/js/main.2eb4c9d9.js"
+    "static/css/main.c8ef711c.css",
+    "static/js/main.cdd10cde.js"
   ]
 }
